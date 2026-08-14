@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Producer",
+  "description": "Produce custom music arrangements with AI beats, chords, melody, Auto-Tune, Auto Mix, Master, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

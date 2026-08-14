@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Audio waveform / equalizer bars in vibrant turquoise -->
+        <!-- Bar 1 -->
+        <path
+            android:fillColor="#00F5D4"
+            android:pathData="M34,46 L38,46 L38,62 L34,62 Z" />
+        <!-- Bar 2 -->
+        <path
+            android:fillColor="#00F5D4"
+            android:pathData="M42,36 L46,36 L46,72 L42,72 Z" />
+        <!-- Bar 3 (Center High) -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M50,28 L54,28 L54,80 L50,80 Z" />
+        <!-- Bar 4 -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M58,34 L62,34 L62,74 L58,74 Z" />
+        <!-- Bar 5 -->
+        <path
+            android:fillColor="#00F5D4"
+            android:pathData="M66,42 L70,42 L70,66 L66,66 Z" />
+        <!-- Bar 6 -->
+        <path
+            android:fillColor="#00F5D4"
+            android:pathData="M74,48 L78,48 L78,60 L74,60 Z" />
+
+        <!-- AI Star Sparkle / Musical Accent at top right -->
+        <path
+            android:fillColor="#70EE9C"
+            android:pathData="M76,28 L77.5,33 L82.5,34.5 L77.5,36 L76,41 L74.5,36 L69.5,34.5 L74.5,33 Z" />
+        
+        <!-- Subtle glow dot -->
+        <path
+            android:fillColor="#00F5D4"
+            android:pathData="M32,32m-2,0a2,2 0,1,1 4,0a2,2 0,1,1 -4,0" />
+    </group>
+</vector>
